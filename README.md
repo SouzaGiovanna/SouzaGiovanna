@@ -1,4 +1,5 @@
 ## Oiii!!! Meu nome é Giovanna de Souza
+### Atualmente sou estudante de Desenvolvimento de Software Multiplataforma pela Fatec Zona Leste
 
 <div>
   <a href="https://github.com/SouzaGiovanna">
