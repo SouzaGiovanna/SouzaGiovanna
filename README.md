@@ -1,5 +1,5 @@
 ## Oiii!!! Meu nome é Giovanna de Souza
-### Atualmente sou estudante de Desenvolvimento de Software Multiplataforma pela Fatec Zona Leste
+### Atualmente sou estudante de Desenvolvimento de Software Multiplataforma pela Fatec Zona Leste e desenvolvedora Back-End PHP na empresa Evve Comunicação!
 
 <div>
   <a href="https://github.com/SouzaGiovanna">
